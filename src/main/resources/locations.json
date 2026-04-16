@@ -1,0 +1,998 @@
+[
+  {
+    "region": "Asgarnia",
+    "name": "Burthorpe: Tight gap",
+    "x": 2927,
+    "y": 3523,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Dwarf mine: Crevice",
+    "x": 3032,
+    "y": 9807,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Falador: Crumbling wall",
+    "x": 2936,
+    "y": 3356,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Falador: Wall grapple",
+    "x": 3033,
+    "y": 3390,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Falador: Wall tunnel",
+    "x": 2948,
+    "y": 3313,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "God wars dungeon: Crack (agility entrance)",
+    "x": 2901,
+    "y": 3712,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "God wars dungeon: Rocky handholds (to wilderness)",
+    "x": 2934,
+    "y": 3768,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "God wars dungeon: Saradomin rope",
+    "x": 2913,
+    "y": 5300,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Heroes' guild: Crevice",
+    "x": 2899,
+    "y": 9901,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Ice dungeon: Giants tunnel",
+    "x": 2987,
+    "y": 9547,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Ice dungeon: Wyvern/hobgoblin tunnel",
+    "x": 3025,
+    "y": 9570,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Ice dungeon: Wyvern entry tunnel",
+    "x": 3018,
+    "y": 9554,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Ice mountain: Rocks",
+    "x": 2998,
+    "y": 3484,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Motherlode mine: North tunnel",
+    "x": 3754,
+    "y": 5661,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Motherlode mine: South tunnel",
+    "x": 3754,
+    "y": 5661,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Taverley: Wall climb",
+    "x": 2945,
+    "y": 3439,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Taverley dungeon: Loose railing",
+    "x": 2933,
+    "y": 9810,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Taverley dungeon: Blue dragon pipe",
+    "x": 2889,
+    "y": 9800,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Taverley dungeon: Floor trap",
+    "x": 2879,
+    "y": 9813,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Troll stronghold: Rooftop rocks",
+    "x": 2841,
+    "y": 3695,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Trollheim: Easy climb",
+    "x": 2870,
+    "y": 3670,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Trollheim: Medium climb",
+    "x": 2876,
+    "y": 3667,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Trollheim: Advanced climb",
+    "x": 2908,
+    "y": 3687,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Trollheim: Hard climb",
+    "x": 2903,
+    "y": 3681,
+    "plane": 0
+  },
+  {
+    "region": "Asgarnia",
+    "name": "Trollheim: Wilderness climb",
+    "x": 2945,
+    "y": 3678,
+    "plane": 0
+  },
+
+  {
+    "region": "Desert",
+    "name": "Al kharid: Palace window",
+    "x": 3292,
+    "y": 3160,
+    "plane": 0
+  },
+  {
+    "region": "Desert",
+    "name": "Al kharid: Mine rocks",
+    "x": 3305,
+    "y": 3315,
+    "plane": 0
+  },
+  {
+    "region": "Desert",
+    "name": "Al kharid: River grapple",
+    "x": 3252,
+    "y": 3179,
+    "plane": 0
+  },
+  {
+    "region": "Desert",
+    "name": "Kalphite lair: Crevice",
+    "x": 3503,
+    "y": 9508,
+    "plane": 2
+  },
+  {
+    "region": "Desert",
+    "name": "Kalphite lair: River stepping stone",
+    "x": 3211,
+    "y": 3135,
+    "plane": 0
+  },
+  {
+    "region": "Desert",
+    "name": "Necropolis: Stepping stone",
+    "x": 3293,
+    "y": 2705,
+    "plane": 0
+  },
+  {
+    "region": "Desert",
+    "name": "Pollnivneach: Stepping stone",
+    "x": 3373,
+    "y": 2959,
+    "plane": 0
+  },
+
+  {
+    "region": "Fremennik",
+    "name": "Slayer dungeon: Traps",
+    "x": 2771,
+    "y": 10003,
+    "plane": 0
+  },
+  {
+    "region": "Fremennik",
+    "name": "Slayer dungeon: Crevice",
+    "x": 2733,
+    "y": 10008,
+    "plane": 0
+  },
+  {
+    "region": "Fremennik",
+    "name": "Miscellania: Stepping stone",
+    "x": 2574,
+    "y": 3861,
+    "plane": 0
+  },
+  {
+    "region": "Fremennik",
+    "name": "Relekka: Broken fence",
+    "x": 2689,
+    "y": 3697,
+    "plane": 0
+  },
+  {
+    "region": "Fremennik",
+    "name": "Relekka: Hunter area handholds",
+    "x": 2742,
+    "y": 3830,
+    "plane": 0
+  },
+  {
+    "region": "Fremennik",
+    "name": "Waterbirth island: Rocks",
+    "x": 2546,
+    "y": 3748,
+    "plane": 0
+  },
+  {
+    "region": "Fremennik",
+    "name": "Waterbirth island: Dungeon crevice",
+    "x": 1853,
+    "y": 4406,
+    "plane": 3
+  },
+
+  {
+    "region": "Kandarin",
+    "name": "Ardougne: Log balance",
+    "x": 2601,
+    "y": 3336,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Barbarian outpost: Basalt causeway",
+    "x": 2522,
+    "y": 3595,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Catherby: Rock grapple",
+    "x": 2869,
+    "y": 3431,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Catherby: Water obelisk grapple",
+    "x": 2844,
+    "y": 3430,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Corsair cove: Rocks",
+    "x": 2546,
+    "y": 2871,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Corsair cove: Resource area rocks",
+    "x": 2486,
+    "y": 2898,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Corsair cove: Cave pillar jump",
+    "x": 1981,
+    "y": 8998,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Gnome Stronghold: Rock climb",
+    "x": 2486,
+    "y": 3515,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Eagles peak: Rocks",
+    "x": 2323,
+    "y": 3501,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Coal trucks: Log balance",
+    "x": 2601,
+    "y": 3479,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Observatory: Grapple",
+    "x": 2448,
+    "y": 3155,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Sinclair mansion: Log balance",
+    "x": 2722,
+    "y": 3594,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Stronghold slayer cave: Tunnel",
+    "x": 2432,
+    "y": 9807,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Yanille: Wall climb",
+    "x": 2561,
+    "y": 3108,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Yanille: Wall tunnel",
+    "x": 2575,
+    "y": 3109,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Yanille Wall grapple",
+    "x": 2553,
+    "y": 3072,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Yanille dungeon: Ledge",
+    "x": 2579,
+    "y": 9516,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Yanille dungeon: Pipe",
+    "x": 2577,
+    "y": 9507,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Yanille dungeon: Monkeybars",
+    "x": 2599,
+    "y": 9492,
+    "plane": 0
+  },
+  {
+    "region": "Kandarin",
+    "name": "Yanille dungeon: Rubble",
+    "x": 2616,
+    "y": 9504,
+    "plane": 0
+  },
+
+  {
+    "region": "Karamja",
+    "name": "Brimhaven: Rope swing",
+    "x": 2704,
+    "y": 3209,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Brimhaven dungeon: Moss giants",
+    "x": 2648,
+    "y": 9559,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Brimhaven dungeon: Log balance",
+    "x": 2685,
+    "y": 9506,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Brimhaven dungeon: Demon pipe",
+    "x": 2698,
+    "y": 9497,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Brimhaven dungeon: Red dragon stepping stones",
+    "x": 2691,
+    "y": 9538,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Brimhaven dungeon: Vine",
+    "x": 2673,
+    "y": 9582,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Cairn isle: Rockslide",
+    "x": 2793,
+    "y": 2979,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Crandor: Rock climb",
+    "x": 2832,
+    "y": 3251,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Kharazi jungle: Vine",
+    "x": 2899,
+    "y": 2938,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Musa point: Grapple",
+    "x": 2875,
+    "y": 3135,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Shaman caves: Crevice",
+    "x": 2766,
+    "y": 9342,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Shilo village: Stepping stone",
+    "x": 2864,
+    "y": 2974,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Shilo village: Rocks",
+    "x": 2871,
+    "y": 3007,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Waterfall: Stepping stones",
+    "x": 2926,
+    "y": 2950,
+    "plane": 0
+  },
+  {
+    "region": "Karamja",
+    "name": "Viyeldi caves: Rope",
+    "x": 2381,
+    "y": 4714,
+    "plane": 0
+  },
+
+  {
+    "region": "Kourend",
+    "name": "Karuulm slayer dungeon: Hydra pipe",
+    "x": 1331,
+    "y": 10227,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Karuulm: Climb",
+    "x": 1325,
+    "y": 3782,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Dense essence mine: Boulder jump",
+    "x": 1775,
+    "y": 3888,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Dense essence mine: Rocks (east)",
+    "x": 1771,
+    "y": 3851,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Dense essence mine: Rocks (north)",
+    "x": 1760,
+    "y": 3873,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Dense essence mine: Rocks (west)",
+    "x": 1743,
+    "y": 3853,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Catacombs: Crack (north)",
+    "x": 1710,
+    "y": 10067,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Catacombs: Crack (south)",
+    "x": 1647,
+    "y": 10006,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Catacombs: Dragons stepping stones",
+    "x": 1611,
+    "y": 10066,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Chasm of fire: Gap",
+    "x": 1450,
+    "y": 10095,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Chasm of fire: Chain",
+    "x": 1436,
+    "y": 10075,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Hosidius: Lake stepping stones",
+    "x": 1605,
+    "y": 3572,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Hosidius: River stepping stone",
+    "x": 1721,
+    "y": 3551,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Forthos dungeon: Trap",
+    "x": 1820,
+    "y": 9946,
+    "plane": 0
+  },
+  {
+    "region": "Kourend",
+    "name": "Wintertodt: Gap",
+    "x": 1630,
+    "y": 4023,
+    "plane": 0
+  },
+
+  {
+    "region": "Morytania",
+    "name": "Barrows: Wall",
+    "x": 3546,
+    "y": 3282,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Burgh de rott: Fence",
+    "x": 3474,
+    "y": 3221,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Darkmeyer: Wall climb",
+    "x": 3670,
+    "y": 3375,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Darkmeyer: Wall rocks",
+    "x": 3564,
+    "y": 3381,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Mausoleum: Bridge jump",
+    "x": 3504,
+    "y": 3558,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Meyerditch lab: Cave",
+    "x": 3557,
+    "y": 9798,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Meyerditch lab: Cave (advanced)",
+    "x": 3538,
+    "y": 9770,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Nature grotto: Bridge",
+    "x": 3441,
+    "y": 3330,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Mort myre: Stepping stone",
+    "x": 3419,
+    "y": 3325,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Mos le'harmless: Stepping stone",
+    "x": 3713,
+    "y": 2970,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Ectofuntus: Weathered wall",
+    "x": 3669,
+    "y": 9888,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Slayer tower: Broken window",
+    "x": 3443,
+    "y": 3534,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Slayer tower: Chain (medium)",
+    "x": 3421,
+    "y": 3551,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Slayer tower: Chain (hard)",
+    "x": 3448,
+    "y": 3578,
+    "plane": 0
+  },
+  {
+    "region": "Morytania",
+    "name": "Slayer tower: Ivy climb",
+    "x": 3418,
+    "y": 3533,
+    "plane": 0
+  },
+
+  {
+    "region": "Tirannwn",
+    "name": "Arandar: Rocks (North)",
+    "x": 2345,
+    "y": 3301,
+    "plane": 0
+  },
+  {
+    "region": "Tirannwn",
+    "name": "Arandar: Rocks (Mid)",
+    "x": 2337,
+    "y": 3289,
+    "plane": 0
+  },
+  {
+    "region": "Tirannwn",
+    "name": "Arandar: Rocks (South)",
+    "x": 2337,
+    "y": 3254,
+    "plane": 0
+  },
+  {
+    "region": "Tirannwn",
+    "name": "Iorwerth dungeon: Gap (north)",
+    "x": 3219,
+    "y": 12441,
+    "plane": 0
+  },
+  {
+    "region": "Tirannwn",
+    "name": "Iorwerth dungeon: Gap (south)",
+    "x": 3237,
+    "y": 12420,
+    "plane": 0
+  },
+  {
+    "region": "Tirannwn",
+    "name": "Zul-andra: Stepping stone",
+    "x": 2158,
+    "y": 3073,
+    "plane": 0
+  },
+
+  {
+    "region": "Varlamore",
+    "name": "Aldarin: Rocks",
+    "x": 1341,
+    "y": 2917,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Nemus retreat (north)",
+    "x": 1368,
+    "y": 3327,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Nemus retreat (south)",
+    "x": 1370,
+    "y": 3294,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Nemus retreat (east)",
+    "x": 1396,
+    "y": 3311,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Auburn valley: Log balance (north)",
+    "x": 1452,
+    "y": 3329,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Auburn valley: Log balance (south)",
+    "x": 1401,
+    "y": 3292,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Custodia cave: Gap squeeze",
+    "x": 1324,
+    "y": 3364,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Darkfrost: Rocks",
+    "x": 1477,
+    "y": 3310,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Proudspire: Lower rocks",
+    "x": 1588,
+    "y": 3262,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Proudspire: Upper rocks",
+    "x": 1577,
+    "y": 3252,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Ralos rise: Rocks",
+    "x": 1460,
+    "y": 3128,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Mokhaiotl ruins: Pillar",
+    "x": 1311,
+    "y": 9507,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Stalker den: Stepping stone",
+    "x": 1308,
+    "y": 9786,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Tlati rainforest: Log balance",
+    "x": 1283,
+    "y": 3143,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Tlati rainforest: Rock climb",
+    "x": 1272,
+    "y": 3004,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Tonali cavern: Log balance",
+    "x": 1304,
+    "y": 9398,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Tonali cavern: Stepping stone",
+    "x": 1315,
+    "y": 9378,
+    "plane": 0
+  },
+  {
+    "region": "Varlamore",
+    "name": "Zanaris: Cosmic altar path",
+    "x": 2409,
+    "y": 4402,
+    "plane": 0
+  },
+
+  {
+    "region": "Wilderness",
+    "name": "Chaos temple: Stepping stone",
+    "x": 3268,
+    "y": 3627,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Deep wilderness dungeon: Crevice",
+    "x": 3046,
+    "y": 10332,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Lava dragon isle: Stepping stone",
+    "x": 3201,
+    "y": 3808,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Lava maze: Stepping stone",
+    "x": 3093,
+    "y": 3880,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Revenant cave: Easy pillar (north)",
+    "x": 3220,
+    "y": 10090,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Revenant cave: Easy pillar (south)",
+    "x": 3220,
+    "y": 10082,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Revenant cave: Medium pillar (north 1)",
+    "x": 3180,
+    "y": 10210,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Revenant cave: Medium pillar (north 2)",
+    "x": 3202,
+    "y": 10196,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Revenant cave: Medium pillar (south)",
+    "x": 3200,
+    "y": 10136,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Revenant cave: Hard pillar",
+    "x": 3241,
+    "y": 10145,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Wilderness god wars dungeon: Entry crevice",
+    "x": 3066,
+    "y": 10150,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Wilderness slayer cave: Jellies",
+    "x": 3384,
+    "y": 10142,
+    "plane": 0
+  },
+  {
+    "region": "Wilderness",
+    "name": "Wilderness slayer cave: Lesser demons",
+    "x": 3384,
+    "y": 10142,
+    "plane": 0
+  }
+]
